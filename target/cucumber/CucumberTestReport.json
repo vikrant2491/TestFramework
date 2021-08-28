@@ -1,0 +1,68 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1040800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeAction(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Search any item",
+        "description": "",
+        "id": "amazon-home-page;search-any-item",
+        "after": [
+          {
+            "result": {
+              "duration": 816900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2881602600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User search for \"trimmer\" item",
+            "match": {
+              "arguments": [
+                {
+                  "val": "trimmer",
+                  "offset": 17
+                }
+              ],
+              "location": "Steps.entertext(String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Amazon home page",
+    "description": "",
+    "id": "amazon-home-page",
+    "keyword": "Feature",
+    "uri": "AmazonSearch.feature"
+  }
+]

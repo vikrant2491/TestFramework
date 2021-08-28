@@ -1,0 +1,7 @@
+#surefire
+#Wed Jul 14 15:20:20 IST 2021
+browser=chrome
+url=https\://www.amazon.in/
+user.dir=C\:\\Users\\BYO\\JavaWorkspace\\TestFramework
+localRepository=C\:\\Users\\BYO\\.m2\\repository
+basedir=C\:\\Users\\BYO\\JavaWorkspace\\TestFramework

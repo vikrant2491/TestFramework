@@ -1,0 +1,236 @@
+2021-06-16 16:08:22 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:08:22 INFO  Steps:13 - This is a test
+2021-06-16 16:08:22 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:11:25 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:11:25 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:11:25 INFO  Steps:13 - This is a test
+2021-06-16 16:11:25 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:11:25 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:16:01 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:16:01 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:16:01 INFO  Steps:13 - This is a test
+2021-06-16 16:16:01 INFO  Steps:13 - This is a test
+2021-06-16 16:16:01 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:16:01 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:16:51 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:16:51 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:16:51 INFO  Steps:13 - This is a test
+2021-06-16 16:16:51 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:16:51 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:16:51 INFO  Steps:13 - This is a test
+2021-06-16 16:16:51 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:16:51 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:18:40 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:18:40 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:18:40 INFO  Steps:13 - This is a test
+2021-06-16 16:18:40 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:18:40 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:18:40 INFO  Steps:13 - This is a test
+2021-06-16 16:18:40 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:18:40 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:19:20 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:19:20 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:19:20 INFO  Steps:13 - This is a test
+2021-06-16 16:19:20 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:19:20 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:19:20 INFO  Steps:13 - This is a test
+2021-06-16 16:19:20 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:19:20 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:20:00 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:20:00 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:20:58 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:20:58 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:21:19 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:21:19 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:21:19 INFO  Steps:13 - This is a test
+2021-06-16 16:21:19 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:21:19 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:32:01 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:32:02 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:32:02 INFO  Steps:13 - This is a test
+2021-06-16 16:32:02 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:32:02 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:33:17 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:33:17 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:33:18 INFO  Steps:13 - This is a test
+2021-06-16 16:33:18 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:33:18 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:35:27 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:35:27 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:35:28 INFO  Steps:13 - This is a test
+2021-06-16 16:35:28 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:35:28 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:44:44 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:44:44 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:44:45 INFO  Steps:13 - This is a test
+2021-06-16 16:44:45 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:44:45 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:47:42 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:47:42 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:47:42 INFO  Steps:13 - This is a test
+2021-06-16 16:47:42 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:47:42 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:49:33 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:49:33 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:49:33 INFO  Steps:13 - This is a test
+2021-06-16 16:49:33 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:49:33 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:53:36 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:53:37 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:53:37 INFO  Steps:13 - This is a test
+2021-06-16 16:53:37 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:53:37 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 16:56:24 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 16:56:24 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 16:56:24 INFO  Steps:13 - This is a test
+2021-06-16 16:56:24 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 16:56:24 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 17:56:56 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 17:56:56 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 17:56:56 INFO  Steps:13 - This is a test
+2021-06-16 17:56:56 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 17:56:56 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 17:58:04 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 17:58:04 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 17:58:04 INFO  Steps:13 - This is a test
+2021-06-16 17:58:04 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 17:58:04 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:00:53 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:00:53 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:00:54 INFO  Steps:13 - This is a test
+2021-06-16 18:00:54 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:00:54 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:07:52 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:07:52 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:07:53 INFO  Steps:13 - This is a test
+2021-06-16 18:07:53 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:07:53 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:09:37 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:09:37 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:09:37 INFO  Steps:13 - This is a test
+2021-06-16 18:09:37 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:09:37 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:11:09 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:11:09 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:11:09 INFO  Steps:13 - This is a test
+2021-06-16 18:11:09 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:11:09 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:18:58 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:18:58 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:18:58 INFO  Steps:13 - This is a test
+2021-06-16 18:18:58 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:18:58 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:21:49 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:21:49 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:21:50 INFO  Steps:13 - This is a test
+2021-06-16 18:21:50 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:21:50 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:26:25 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:26:25 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:26:25 INFO  Steps:13 - This is a test
+2021-06-16 18:26:25 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:26:25 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:28:22 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:28:23 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:28:23 INFO  Steps:13 - This is a test
+2021-06-16 18:28:23 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:28:23 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-16 18:29:17 INFO  AbstractBaseActions:24 - Setup started
+2021-06-16 18:29:17 INFO  AbstractBaseActions:13 - before Action
+2021-06-16 18:29:18 INFO  Steps:13 - This is a test
+2021-06-16 18:29:18 INFO  AbstractBaseActions:19 - after Action
+2021-06-16 18:29:18 INFO  AbstractBaseActions:28 - Tearing down
+2021-06-18 22:04:53 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:04:53 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:04:53 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:04:53 INFO  AbstractBaseActions:32 - ******************************************
+2021-06-18 22:04:53 INFO  AbstractBaseActions:33 - *********Finalizing Testframework****
+2021-06-18 22:04:53 INFO  AbstractBaseActions:34 - ******************************************
+2021-06-18 22:06:30 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:06:30 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:06:30 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:06:30 INFO  AbstractBaseActions:32 - ******************************************
+2021-06-18 22:06:30 INFO  AbstractBaseActions:33 - *********Finalizing Testframework****
+2021-06-18 22:06:30 INFO  AbstractBaseActions:34 - ******************************************
+2021-06-18 22:08:49 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:08:49 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:08:49 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:08:49 INFO  AbstractBaseActions:32 - ******************************************
+2021-06-18 22:08:49 INFO  AbstractBaseActions:33 - *********Finalizing Testframework****
+2021-06-18 22:08:49 INFO  AbstractBaseActions:34 - ******************************************
+2021-06-18 22:10:26 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:10:26 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:10:26 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:10:27 INFO  AbstractBaseActions:32 - ******************************************
+2021-06-18 22:10:27 INFO  AbstractBaseActions:33 - *********Finalizing Testframework****
+2021-06-18 22:10:27 INFO  AbstractBaseActions:34 - ******************************************
+2021-06-18 22:12:12 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:12:12 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:12:12 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:12:12 INFO  AbstractBaseActions:32 - ******************************************
+2021-06-18 22:12:12 INFO  AbstractBaseActions:33 - *********Finalizing Testframework****
+2021-06-18 22:12:12 INFO  AbstractBaseActions:34 - ******************************************
+2021-06-18 22:14:18 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:14:18 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:14:18 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:14:18 INFO  AbstractBaseActions:32 - ******************************************
+2021-06-18 22:14:18 INFO  AbstractBaseActions:33 - *********Finalizing Testframework****
+2021-06-18 22:14:18 INFO  AbstractBaseActions:34 - ******************************************
+2021-06-18 22:17:30 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:17:30 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:17:30 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:17:30 INFO  RealWebDriver:18 - Initializing application driver
+2021-06-18 22:17:30 INFO  RealWebDriver:19 - Browser is: null
+2021-06-18 22:17:30 INFO  RealWebDriver:20 - Browser is: null
+2021-06-18 22:17:30 INFO  AbstractBaseActions:33 - ******************************************
+2021-06-18 22:17:30 INFO  AbstractBaseActions:34 - *********Finalizing Testframework****
+2021-06-18 22:17:30 INFO  AbstractBaseActions:35 - ******************************************
+2021-06-18 22:22:48 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:22:48 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:22:48 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:22:48 INFO  RealWebDriver:18 - Initializing application driver
+2021-06-18 22:22:48 INFO  RealWebDriver:19 - Browser is: chrome
+2021-06-18 22:22:48 INFO  RealWebDriver:20 - Browser is: https://www.amazon.in/
+2021-06-18 22:22:55 INFO  AbstractBaseActions:33 - ******************************************
+2021-06-18 22:22:55 INFO  AbstractBaseActions:34 - *********Finalizing Testframework****
+2021-06-18 22:22:55 INFO  AbstractBaseActions:35 - ******************************************
+2021-06-18 22:26:36 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:26:36 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:26:36 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:26:36 INFO  RealWebDriver:18 - Initializing application driver
+2021-06-18 22:26:36 INFO  RealWebDriver:19 - Browser is: chrome
+2021-06-18 22:26:36 INFO  RealWebDriver:20 - Browser is: https://www.amazon.in/
+2021-06-18 22:26:42 INFO  AbstractBaseActions:33 - ******************************************
+2021-06-18 22:26:42 INFO  AbstractBaseActions:34 - *********Finalizing Testframework****
+2021-06-18 22:26:42 INFO  AbstractBaseActions:35 - ******************************************
+2021-06-18 22:28:59 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:28:59 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:28:59 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:28:59 INFO  RealWebDriver:20 - Initializing application driver
+2021-06-18 22:28:59 INFO  RealWebDriver:21 - Browser is: chrome
+2021-06-18 22:28:59 INFO  RealWebDriver:22 - Browser is: https://www.amazon.in/
+2021-06-18 22:29:04 INFO  AbstractBaseActions:33 - ******************************************
+2021-06-18 22:29:04 INFO  AbstractBaseActions:34 - *********Finalizing Testframework****
+2021-06-18 22:29:04 INFO  AbstractBaseActions:35 - ******************************************
+2021-06-18 22:29:31 INFO  AbstractBaseActions:13 - ******************************************
+2021-06-18 22:29:31 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-06-18 22:29:31 INFO  AbstractBaseActions:15 - ******************************************
+2021-06-18 22:29:31 INFO  RealWebDriver:20 - Initializing application driver
+2021-06-18 22:29:31 INFO  RealWebDriver:21 - Browser is: chrome
+2021-06-18 22:29:31 INFO  RealWebDriver:22 - Browser is: https://www.amazon.in/
+2021-06-18 22:29:37 INFO  AbstractBaseActions:22 - Executing test scenarioSearch any item
+2021-06-18 22:29:42 INFO  AbstractBaseActions:28 - Ending test scenarioSearch any item
+2021-06-18 22:29:42 INFO  AbstractBaseActions:33 - ******************************************
+2021-06-18 22:29:42 INFO  AbstractBaseActions:34 - *********Finalizing Testframework****
+2021-06-18 22:29:42 INFO  AbstractBaseActions:35 - ******************************************
+2021-07-14 15:20:21 INFO  AbstractBaseActions:13 - ******************************************
+2021-07-14 15:20:21 INFO  AbstractBaseActions:14 - *********Initializing Testframework****
+2021-07-14 15:20:21 INFO  AbstractBaseActions:15 - ******************************************
+2021-07-14 15:20:21 INFO  RealWebDriver:21 - Initializing application driver
+2021-07-14 15:20:21 INFO  RealWebDriver:22 - Browser is: chrome
+2021-07-14 15:20:21 INFO  RealWebDriver:23 - Browser is: https://www.amazon.in/
+2021-07-14 15:20:28 INFO  AbstractBaseActions:22 - Executing test scenarioSearch any item
+2021-07-14 15:20:31 INFO  AbstractBaseActions:28 - Ending test scenarioSearch any item
+2021-07-14 15:20:31 INFO  AbstractBaseActions:33 - ******************************************
+2021-07-14 15:20:31 INFO  AbstractBaseActions:34 - *********Finalizing Testframework****
+2021-07-14 15:20:31 INFO  AbstractBaseActions:35 - ******************************************

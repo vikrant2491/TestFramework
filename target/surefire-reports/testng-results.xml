@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="10915" started-at="2021-07-14T09:50:21Z" finished-at="2021-07-14T09:50:32Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="RunCukesTest.runTests(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:stepDefs.RunCukesTest@735b5592]" name="runTests" class="stepDefs.RunCukesTest"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Command line test" duration-ms="10915" started-at="2021-07-14T09:50:21Z" finished-at="2021-07-14T09:50:32Z">
+      <class name="stepDefs.RunCukesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:stepDefs.RunCukesTest@735b5592]" name="setUp" is-config="true" duration-ms="6641" started-at="2021-07-14T15:20:21Z" finished-at="2021-07-14T15:20:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="runTests(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:stepDefs.RunCukesTest@735b5592]" name="runTests" duration-ms="2937" started-at="2021-07-14T15:20:28Z" data-provider="Features" finished-at="2021-07-14T15:20:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amazon home page]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTests -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:stepDefs.RunCukesTest@735b5592]" name="tearDown" is-config="true" duration-ms="1172" started-at="2021-07-14T15:20:31Z" finished-at="2021-07-14T15:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- stepDefs.RunCukesTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
